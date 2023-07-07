@@ -1,30 +1,39 @@
-## ¡Saludos, viajeros del código! 👋
+## ¡Saludos, amantes del código! 👋
 
-Bienvenidos a mi humilde morada en GitHub, donde la alquimia de la programación y el sonido se unen en un torrente de magia y sarcasmo. Permíteme presentarme: soy Juan Sebastián Calderón Hurtado, un desarrollador de software con una pizca de ingeniería de sonido en mi cauldron de habilidades.
+¡Bienvenidos a mi rincón en GitHub! Aquí encontrarás un resumen de mi experiencia como desarrollador de software y especialista en ingeniería de sonido. Permíteme presentarme:
 
-### Datos vitales del hechicero:
-- 🔭 Actualmente estoy trabajando en desentrañar los misterios del desarrollo de aplicaciones mágicas.
-- 🌱 Siempre estoy aprendiendo, pues en este mundo nunca se deja de descubrir nuevos encantamientos.
-- 👯 Estoy buscando colaborar en proyectos que desafíen mis conocimientos y pongan a prueba mis habilidades.
-- 🤔 Siempre estoy dispuesto a recibir ayuda con el lanzamiento de mi próximo hechizo maestro.
-- 💬 Puedes preguntarme cualquier cosa sobre el arte de programar o las profundidades del sonido, y compartiré mis conocimientos contigo.
-- 📫 Puedes encontrarme conjurando en este medio para discutir cualquier asunto relacionado con la programación o para invocar a la musa de la creatividad.
+### Juan Sebastián Calderón Hurtado
 
-### Mis armas mágicas:
-- 💻 Tecnologías: React-Native, Angular, Flutter, Java y Kotlin son mis hechizos más poderosos en el mundo Full Stack.
-- 🧪 He realizado pruebas y experimentos en el reino de Android, asegurando que mis creaciones funcionen de manera óptima.
-- 📚 He demostrado habilidades en la generación de documentación, dejando rastros claros de mis conjuros para futuras generaciones.
+#### Desarrollador de Software y Maestro del Sonido
 
-### Hechizos y logros notables:
-- 🏆 Diseñé e implementé la arquitectura de una plataforma empresarial, permitiendo la integración de múltiples dispositivos y la visualización de datos en tiempo real.
-- 🌌 Desarrollé tableros de visualización de datos en tiempo real utilizando herramientas como D3.js, Grafana y Tableau, atrapando la esencia de los datos en un solo vistazo.
-- 🚀 Contribuí en el desarrollo de plataformas de apps web, móviles y de escritorio para servicios de transmisión de música, utilizando el poderoso stack MERN, Kotlin y Java.
-- 🌩️ Manejé servidores Ubuntu y Oracle-Linux, y me aventuré en el misterioso reino de la nube de AWS.
-- 🔒 Implementé un sistema de seguridad en una plataforma de comercio electrónico, defendiendo a los usuarios contra las fuerzas oscuras del fraude.
+Con más de tres años de experiencia en el arte del desarrollo de software, he perfeccionado mis habilidades en una amplia gama de tecnologías modernas que impulsan nuestras aplicaciones y plataformas digitales.
 
-### Formación y más allá:
-- 🎓 Ingeniero de Sonido de la Universidad San Buenaventura en Bogotá, donde aprendí a dominar el arte de la acústica y la magia del sonido.
-- 🌍 Certificaciones y diplomas en diversos campos, como desarrollo de software y machine learning, otorgados por entidades como Platzi, Udacity y Duke University.
-- 🗣️ Idiomas: Mi fluidez en inglés está a nivel C1, y mi español es mi lengua materna.
+### ¿Qué puedo ofrecerte?
 
-Si has llegado hasta aquí, eres un verdadero aventurero en busca de poderosos conjuros. Explora mis repositorios y descubrelos
+- 🔭 Actualmente, estoy inmerso en desafiantes proyectos que me mantienen al día con las últimas tendencias tecnológicas y en constante aprendizaje.
+- 🌱 Siempre estoy ávido de nuevos conocimientos y dispuesto a explorar tecnologías emergentes para ampliar mis habilidades.
+- 👯 Me encantaría colaborar en proyectos innovadores y formar parte de equipos talentosos que compartan mi pasión por el desarrollo de software y la excelencia técnica.
+- 🤔 Siempre estoy abierto a recibir ayuda y consejos para perfeccionar mis conjuros y llevar mis habilidades al siguiente nivel.
+- 💬 Si tienes alguna pregunta o necesitas asesoramiento en el fascinante mundo del desarrollo de aplicaciones o la ingeniería de sonido, no dudes en preguntar. Estoy aquí para ayudarte.
+
+### Educación y Certificaciones
+
+- 🎓 Soy graduado como Ingeniero de Sonido de la Universidad San Buenaventura en Bogotá, donde aprendí a dominar el arte de la acústica y dar vida a melodías cautivadoras.
+- 📚 A lo largo de mi trayecto, he obtenido diversas certificaciones y diplomas en campos relacionados con el desarrollo de software y el aprendizaje automático. He adquirido estas certificaciones de prestigiosas plataformas educativas, como Platzi, Udacity y Duke University.
+
+### Experiencia Laboral Destacada
+
+#### Ingeniero de Software Senior
+
+- 💼 Ubicación: Bogotá, Colombia
+- 🌟 Actualmente, formo parte de un equipo élite en una empresa líder. Mi labor principal consiste en diseñar y desarrollar arquitecturas sólidas y escalables para plataformas empresariales, permitiendo la integración de múltiples dispositivos y garantizando una experiencia fluida en tiempo real.
+- 💪 Logros: He liderado el desarrollo e implementación de una API de GraphQL que optimizó la eficiencia y escalabilidad de la plataforma. Además, he creado tableros de visualización de datos en tiempo real utilizando tecnologías punteras como D3.js, Grafana y Tableau.
+
+#### Desarrollador Full Stack Senior
+
+- 💼 En mi experiencia previa, he participado en la creación de plataformas de aplicaciones web, móviles y de escritorio para servicios de transmisión de música. He utilizado el poderoso stack MERN, así como Kotlin y Java.
+- 🏆 Logros: He desarrollado sistemas de seguridad robustos y he colaborado en el diseño e implementación de arquitecturas escalables que han impulsado significativamente las ventas y reducido los casos de fraude.
+
+### ¡Conéctate conmigo!
+
+Si deseas explorar oportunidades emocionantes o simplemente compartir ideas sobre desarrollo de software o ingeniería de sonido
