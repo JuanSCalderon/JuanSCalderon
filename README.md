@@ -1,12 +1,12 @@
 ## ¡Saludos, amantes del código! 👋
 
-¡Bienvenidos a mi rincón en GitHub! Aquí encontrarás un resumen de mi experiencia como desarrollador de software y especialista en ingeniería de sonido. Permíteme presentarme:
+¡Bienvenidos a mi rincón en GitHub! Aquí encontrarás un resumen de mi experiencia como desarrollador de software, especialista IA y con background en ingeniería de sonido. Permíteme presentarme:
 
 ### Juan Sebastián Calderón Hurtado
 
 #### Desarrollador de Software y Maestro del Sonido
 
-Con más de tres años de experiencia en el arte del desarrollo de software, he perfeccionado mis habilidades en una amplia gama de tecnologías modernas que impulsan nuestras aplicaciones y plataformas digitales.
+Con más de cuatro años de experiencia en el arte del desarrollo de software, he perfeccionado mis habilidades en una amplia gama de tecnologías modernas que impulsan nuestras aplicaciones y plataformas digitales.
 
 ### ¿Qué puedo ofrecerte?
 
