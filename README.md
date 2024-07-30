@@ -18,6 +18,8 @@ Con más de cuatro años de experiencia en el arte del desarrollo de software, h
 
 ### Educación y Certificaciones
 
+- 🎓 Actualmente estoy haciendo mi Posgrado en Especialista de Inteligencia Artificial.
+- 🎓 Tengo un técnico laboral en programación de Aplicaciones Web.
 - 🎓 Soy graduado como Ingeniero de Sonido de la Universidad San Buenaventura en Bogotá, donde aprendí a dominar el arte de la acústica y dar vida a melodías cautivadoras.
 - 📚 A lo largo de mi trayecto, he obtenido diversas certificaciones y diplomas en campos relacionados con el desarrollo de software y el aprendizaje automático. He adquirido estas certificaciones de prestigiosas plataformas educativas, como Platzi, Udacity y Duke University.
 
