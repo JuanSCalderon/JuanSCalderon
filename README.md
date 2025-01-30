@@ -1,8 +1,8 @@
-## ¡Hola, OneC aquí! 👋
+## ¡Saludos Interesad@s! 👋
 
 ¡Bienvenidos a mi GitHub! Aquí encontrarás un resumen de mi experiencia como desarrollador de Móvil y XR, posgrado en IA y con background en ingeniería de sonido. Permíteme presentarme:
 
-### Juan Sebastián Calderón o OneC
+### OneC 
 
 #### Desarrollador de Software y Maestro del Sonido
 
