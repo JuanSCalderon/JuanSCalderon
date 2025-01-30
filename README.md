@@ -1,8 +1,8 @@
-## ¡Saludos, amantes del código! 👋
+## ¡Hola, OneC aquí! 👋
 
-¡Bienvenidos a mi rincón en GitHub! Aquí encontrarás un resumen de mi experiencia como desarrollador de software, especialista IA y con background en ingeniería de sonido. Permíteme presentarme:
+¡Bienvenidos a mi GitHub! Aquí encontrarás un resumen de mi experiencia como desarrollador de Móvil y XR, posgrado en IA y con background en ingeniería de sonido. Permíteme presentarme:
 
-### Juan Sebastián Calderón Hurtado
+### Juan Sebastián Calderón o OneC
 
 #### Desarrollador de Software y Maestro del Sonido
 
@@ -18,10 +18,10 @@ Con más de cuatro años de experiencia en el arte del desarrollo de software, h
 
 ### Educación y Certificaciones
 
-- 🎓 Actualmente estoy haciendo mi Posgrado en Especialista de Inteligencia Artificial.
-- 🎓 Tengo un técnico laboral en programación de Aplicaciones Web.
+- 🎓 Actualmente ya terminé mi Posgrado en Especialista de Inteligencia Artificial.
+- 🎓 Tengo estudio oficiales en programación de Aplicaciones Web.
 - 🎓 Soy graduado como Ingeniero de Sonido de la Universidad San Buenaventura en Bogotá, donde aprendí a dominar el arte de la acústica y dar vida a melodías cautivadoras.
-- 📚 A lo largo de mi trayecto, he obtenido diversas certificaciones y diplomas en campos relacionados con el desarrollo de software y el aprendizaje automático. He adquirido estas certificaciones de prestigiosas plataformas educativas, como Platzi, Udacity y Duke University.
+- 📚 A lo largo de mi trayecto, he obtenido diversas certificaciones y diplomas en campos relacionados con el desarrollo de software y el aprendizaje automático. He adquirido estas certificaciones de prestigiosas plataformas educativas como: IBM, Coursera, Duke University, Platzi, Udemy y Udacity.
 
 ### Experiencia Laboral Destacada
 
